@@ -59,17 +59,14 @@ I am currently building my own versions of classic network tools to understand t
 </table>
 
 ---
-
 ### 📊 The Data
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=godbanned&show_icons=true&theme=gotham&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godbanned&layout=compact&theme=gotham&hide_border=true" height="150" alt="languages graph" />
-</div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=godbanned&show_icons=true&theme=gotham&hide_border=true&count_private=true&include_all_commits=true" />
+  </a>
 
-<br />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=godbanned&style=flat-square&color=green&label=SYSTEM+ACCESS+LOG" alt="profile counter" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godbanned&layout=compact&theme=gotham&hide_border=true&langs_count=8" />
+  </a>
 </div>
