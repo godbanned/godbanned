@@ -1,16 +1,20 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header&text=godbanned&fontSize=70&fontColor=00ff00&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=39FF14&text=godbanned&height=100&fontSize=70&animation=fadeIn" width="100%" alt="godbanned"/>
 </div>
 
 <div align="center">
-  <h3> 👨‍💻 Information Security & Compliance Intern </h3>
-  <p>
-    <i>"Just some Python scripts for educational purposes..."</i> 🤫
-  </p>
+  <b>👨‍💻 Information Security & Compliance Intern</b>
+  <br/>
+  <br/>
+  <i>"Just some Python scripts for educational purposes..."</i> 🤫
+</div>
 
+<div align="center">
+  <br/>
   <a href="https://github.com/godbanned">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-39FF14?style=for-the-badge&logo=linux&logoColor=black&labelColor=black"/>
 </div>
 
 ---
