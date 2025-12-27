@@ -55,14 +55,6 @@ I am currently building my own versions of classic network tools to understand t
         <a href="https://github.com/godbanned/simple_mac_changer"><strong>Explore the Code »</strong></a>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">🐝 Gestion de Colmenas</h3>
-      <p align="center">
-        Java-based management system. Because even hackers need organization.
-        <br />
-        <a href="https://github.com/godbanned/Gestion-de-Colmenas"><strong>Explore the Code »</strong></a>
-      </p>
-    </td>
   </tr>
 </table>
 
