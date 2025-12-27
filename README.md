@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=godbanned&fontSize=70&fontColor=00ff00&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header&text=godbanned&fontSize=70&fontColor=00ff00&animation=fadeIn&fontAlignY=35" width="100%"/>
 </div>
 
 <div align="center">
@@ -11,7 +11,7 @@
   <a href="https://github.com/godbanned">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  </div>
+</div>
 
 ---
 
@@ -55,18 +55,28 @@ I am currently building my own versions of classic network tools to understand t
         <a href="https://github.com/godbanned/simple_mac_changer"><strong>Explore the Code »</strong></a>
       </p>
     </td>
+    <td width="50%">
+      <h3 align="center">🐝 Gestion de Colmenas</h3>
+      <p align="center">
+        Java-based management system. Because even hackers need organization.
+        <br />
+        <a href="https://github.com/godbanned/Gestion-de-Colmenas"><strong>Explore the Code »</strong></a>
+      </p>
+    </td>
   </tr>
 </table>
 
 ---
+
 ### 📊 The Data
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=godbanned&show_icons=true&theme=gotham&hide_border=true&count_private=true&include_all_commits=true" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=godbanned&show_icons=true&theme=gotham&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godbanned&layout=compact&theme=gotham&hide_border=true&langs_count=8" height="180" alt="languages graph" />
+</div>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godbanned&layout=compact&theme=gotham&hide_border=true&langs_count=8" />
-  </a>
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=godbanned&style=flat-square&color=green&label=SYSTEM+ACCESS+LOG" alt="profile counter" />
 </div>
