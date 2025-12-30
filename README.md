@@ -5,8 +5,6 @@
 <div align="center">
   <b>👨‍💻 Information Security & Compliance Intern</b>
   <br/>
-  <br/>
-  <i>"Just some Python scripts for educational purposes..."</i> 🤫
 </div>
 
 <div align="center">
@@ -25,41 +23,6 @@ I am currently building my own versions of classic network tools to understand t
 - 🐍 **Python** - The primary weapon of choice.
 - 🛡️ **Network Security** - ARP, MAC manipulation, Scanning.
 - 📋 **Compliance** - Keeping things legal and secure.
-
----
-
-### 🛠️ The Laboratory (Featured Projects)
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">📡 Network Scanner</h3>
-      <p align="center">
-        My take on a network discovery tool. Mapping the local area network.
-        <br />
-        <a href="https://github.com/godbanned/network-scanner"><strong>Explore the Code »</strong></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🕵️‍♂️ ARP Spoof</h3>
-      <p align="center">
-        A MITM (Man-In-The-Middle) proof of concept. For testing network integrity only.
-        <br />
-        <a href="https://github.com/godbanned/arp_spoof"><strong>Explore the Code »</strong></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🎭 Simple MAC Changer</h3>
-      <p align="center">
-        A Python utility to manipulate network interfaces and anonymity.
-        <br />
-        <a href="https://github.com/godbanned/simple_mac_changer"><strong>Explore the Code »</strong></a>
-      </p>
-    </td>
-  </tr>
-</table>
 
 ---
 
