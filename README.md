@@ -16,16 +16,6 @@
 
 ---
 
-### ⚡ The Arsenal (Current Focus)
-
-I am currently building my own versions of classic network tools to understand the underlying protocols.
-
-- 🐍 **Python** - The primary weapon of choice.
-- 🛡️ **Network Security** - ARP, MAC manipulation, Scanning.
-- 📋 **Compliance** - Keeping things legal and secure.
-
----
-
 ### 📊 The Data
 
 <div align="center">
