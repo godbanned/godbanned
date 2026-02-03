@@ -19,5 +19,5 @@
 ### 📊 The Data
 
 <div align="center">
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6378883" style='border:none;'></iframe>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/godbanned.png" alt="Your Image Badge" />
 </div>
