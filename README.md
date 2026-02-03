@@ -19,12 +19,5 @@
 ### 📊 The Data
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=godbanned&show_icons=true&theme=gotham&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=godbanned&layout=compact&theme=gotham&hide_border=true&langs_count=8" height="180" alt="languages graph" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=godbanned&style=flat-square&color=green&label=SYSTEM+ACCESS+LOG" alt="profile counter" />
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6378883" style='border:none;'></iframe>
 </div>
