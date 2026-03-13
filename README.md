@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=39FF14&text=godbanned&height=100&fontSize=70&animation=fadeIn" width="100%" alt="godbanned"/>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=39FF14&text=OrangeCat0x&height=100&fontSize=70&animation=fadeIn" width="100%" alt="OrangeCat0x"/>
 </div>
 
 <div align="center">
